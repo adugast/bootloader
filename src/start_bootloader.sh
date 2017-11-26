@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # compile bootloader code
 nasm -f bin -o bootloader.bin bootloader.asm
